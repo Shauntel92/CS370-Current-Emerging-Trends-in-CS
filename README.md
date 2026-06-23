@@ -159,8 +159,8 @@ The provided Python environment files should not be modified.
 1. Clone or download the repository.
 
 ```bash
-git clone <>
-cd <repository-folder>
+git clone <https://github.com/Shauntel92/CS370-Current-Emerging-Trends-in-CS.git>
+cd <CS370-Current-Emerging-Trends-in-CS>
 ```
 
 2. Install the required dependencies.
